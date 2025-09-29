@@ -1,1 +1,0 @@
-C:\Users\salma\AppData\Local\Android\Sdk
