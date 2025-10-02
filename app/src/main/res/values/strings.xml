@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloCounter</string>
+    <string name="btn_hello">Dire bonjour</string>
+    <string name="msg_hello">Bonjour, utilisateur !</string>
+</resources>
